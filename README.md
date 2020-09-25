@@ -1,0 +1,2 @@
+# macos
+software para mac
